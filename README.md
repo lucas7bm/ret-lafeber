@@ -6,4 +6,8 @@ Além disso, faz os lançamentos dos registros de ajuste de estornos no registro
 Uma GUI foi criada usando PySimpleGUI e o o código todo pode ser transformado em um executável usando a biblioteca pyinstaller.
 Para gerar o executável, basta executar o seguinte comando:
 
-```pyinstaller .\SpedFix.py --onefile --noupx --noconsole -i .\icon.ico```
+```pyinstaller .\Ajustes RET Lafeber.py --onefile --noupx --noconsole -i .\icon.ico```
+
+#Dependências
+ - PySimpleGUI
+ - XLSXWriter
